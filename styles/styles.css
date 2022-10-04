@@ -1,0 +1,19 @@
+body {
+    background-color:rgb(188, 231, 255);
+    font-family: "Open Sans";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size:4rem;
+    font-weight:bold;
+
+}
+.title {
+    border-bottom: 5px solid rgb(0, 72, 255);
+}
+
+body, html {
+    height:100%;
+    width:100%;
+}
